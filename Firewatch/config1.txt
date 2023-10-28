@@ -1,0 +1,5 @@
+Forest Height: 5
+Forest Width: 6
+Burn Time: 4 hours
+Forest File: forest1.txt
+Wind File: wind1.txt
